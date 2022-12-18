@@ -14,3 +14,8 @@ for (int i = 0; i < array.Length; i++)  // Пробегаю по первому 
         j++;  // Увеличиваю счетчик на +1;
     }
 }
+
+for (int i = 0; i < newArr.Length; i++)
+{
+    Console.Write($"{newArr[i]} ");
+}
